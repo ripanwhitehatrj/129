@@ -7,7 +7,7 @@ body{
     font-size: 20px;
 }
 .note{
-    color: rgb(30, 30, 102);
+    color: black;
     font-size: 15px;
 }
 .song_name{
@@ -15,7 +15,7 @@ body{
 }
 canvas{
     background-color: #000000;
-    border: 5px solid rgb(90, 23, 23);
+    border: 5px solid white;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px #448a90;
+    box-shadow: 5px 5px 5px #73cfd8;
 }
